@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://newsell-test.jieyuechina.com/home/jyapp/frontend/H5-NMKP-DL/dist/iphone/NMKP_enterprise_release.ipa</string>
+					<string>http://newsell-test.jieyuechina.com/NMKP_enterprise_release.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
